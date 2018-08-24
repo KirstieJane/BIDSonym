@@ -20,7 +20,7 @@
 
 <img src="https://github.com/PeerHerholz/BIDSonym/blob/master/img/bidsyonym_example.png"
 alt="bidsonym example"
-style={max-width:94%; padding=3%;}>
+style={max-width:60%; padding=20%;}>
 
 **Using BIDSonym ensures that you can make collected neuroimaging data available for others without violating subjects' privacy or anonymity.**
 
