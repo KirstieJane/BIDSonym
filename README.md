@@ -18,7 +18,9 @@
 * [MRI deface](https://surfer.nmr.mgh.harvard.edu/fswiki/mri_deface)
 * [Quickshear](https://github.com/nipy/quickshear)
 
-<img src="https://github.com/PeerHerholz/BIDSonym/blob/master/img/bidsyonym_example.png" alt="bidsonym example" width="100%" height="auto" border="100">
+<img src="https://github.com/PeerHerholz/BIDSonym/blob/master/img/bidsyonym_example.png"
+alt="bidsonym example"
+style={"max-width:98%; padding=1%;"}>
 
 **Using BIDSonym ensures that you can make collected neuroimaging data available for others without violating subjects' privacy or anonymity.**
 
